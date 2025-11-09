@@ -1,0 +1,15 @@
+70 11020 V 7200   E9 01 55 3F F8 17 0B 1A  IMG EU
+100 11430 V 34000  11 22 33 44 55 66 77 88  LALIGA
+30 10960 H 10000  11 22 33 44 55 66 77 88  BEIN sport
+70 11044 V 9873  7C 95 5A 6B 4C 81 6D 3A  Winter sport
+10 East 11181 H 7199   03 01 8A 8E 35 CB B3 B3  Frankfurt Skyliners
+70 10985 V 7200 HD   5B CD 67 8F 7A BF 8D C6    Euroleague - Herbalife Gran Canaria vs Khimki Moscow
+  
+70 11090 H 9875 HD 4:2:0  D4 B3 52 D9 34 D1 77 7C   Liga NOS - das Aves vs Porto
+
+100 11303 V 34000   9E A1 EC 2B F3 99 F5 81
+100 11303 V 34000   99 10 85 2E 98 DC 28 9C
+
+100 11428 V 34000   D5 40 BB D0 BB 3C EF E6   LaLiga Santander - Villarreal vs Real Madrid
+100 11428 V 34000   A0 04 29 CD 46 25 94 FF     LaLiga Santander - Villarreal vs Real Madrid
+100 11428 V 34000   0A 10 7C 2C B5 6A E2 01  LaLiga Santander - Villarreal vs Real Madrid
